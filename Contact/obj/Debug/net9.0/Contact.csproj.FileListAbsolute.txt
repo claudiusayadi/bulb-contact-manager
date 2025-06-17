@@ -1,0 +1,11 @@
+/home/dovely/bulb/assigned/ContactManager/Contact/bin/Debug/net9.0/Contact.deps.json
+/home/dovely/bulb/assigned/ContactManager/Contact/bin/Debug/net9.0/Contact.dll
+/home/dovely/bulb/assigned/ContactManager/Contact/bin/Debug/net9.0/Contact.pdb
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/Contact.GeneratedMSBuildEditorConfig.editorconfig
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/Contact.AssemblyInfoInputs.cache
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/Contact.AssemblyInfo.cs
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/Contact.csproj.CoreCompileInputs.cache
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/Contact.dll
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/refint/Contact.dll
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/Contact.pdb
+/home/dovely/bulb/assigned/ContactManager/Contact/obj/Debug/net9.0/ref/Contact.dll
